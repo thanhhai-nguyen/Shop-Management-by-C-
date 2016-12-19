@@ -1,0 +1,166 @@
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement2.csprojResolveAssemblyReference.cache
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.employeeDetailForm.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.employeeInputForm.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmCategories.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetailInput.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail_SearchOrder.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail_SearchProduct.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct_SearchCategory.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProductInput.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct_SearchSupplier.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmShipper.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmMain.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.mngerChooseForm.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrder.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchCusID.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchEmpID.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchShipID.resources
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement2.csproj.GenerateResource.Cache
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+D:\Learning\C#\Assignment\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmCustomer.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement2.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmCustomer.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.employeeDetailForm.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.employeeInputForm.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmCategories.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetailInput.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail_SearchOrder.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail_SearchProduct.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct_SearchCategory.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProductInput.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct_SearchSupplier.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmShipper.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmMain.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.mngerChooseForm.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrder.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchCusID.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchEmpID.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchShipID.resources
+C:\Users\asus\Desktop\ShopManagement\ShopManagement\obj\Debug\ShopManagement2.csproj.GenerateResource.Cache
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement2.csprojResolveAssemblyReference.cache
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmCustomer.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.employeeDetailForm.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.employeeInputForm.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmCategories.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetailInput.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail_SearchOrder.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail_SearchProduct.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct_SearchCategory.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProductInput.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct_SearchSupplier.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmShipper.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmMain.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.mngerChooseForm.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrder.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchCusID.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchEmpID.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchShipID.resources
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement2.csproj.GenerateResource.Cache
+C:\Users\ThinhLP\Desktop\ShopManagement (2)\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSupplier.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement2.csprojResolveAssemblyReference.cache
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmCustomer.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.employeeDetailForm.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.employeeInputForm.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmCategories.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetailInput.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail_SearchOrder.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail_SearchProduct.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct_SearchCategory.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProductInput.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct_SearchSupplier.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmShipper.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSupplier.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmMain.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.mngerChooseForm.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrder.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchCusID.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchEmpID.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchShipID.resources
+D:\Learning\C#\Assignment\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement2.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement2.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmCustomer.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.employeeDetailForm.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.employeeInputForm.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmCategories.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetailInput.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail_SearchOrder.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail_SearchProduct.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct_SearchCategory.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProductInput.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct_SearchSupplier.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmShipper.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSupplier.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmMain.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.mngerChooseForm.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrder.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchCusID.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchEmpID.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchShipID.resources
+C:\Users\asus\Desktop\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement2.csproj.GenerateResource.Cache
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement2.csprojResolveAssemblyReference.cache
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmCustomer.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.employeeDetailForm.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.employeeInputForm.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmCategories.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetailInput.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail_SearchOrder.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrderDetail_SearchProduct.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct_SearchCategory.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProductInput.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmProduct_SearchSupplier.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmShipper.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSupplier.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmMain.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.mngerChooseForm.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmOrder.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchCusID.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchEmpID.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement.frmSearchShipID.resources
+C:\Users\ThinhLP\Desktop\SE1065_Group1_ShopManagement (1)\SE1065_Group1_ShopManagement\ShopManagement\ShopManagement\obj\Debug\ShopManagement2.csproj.GenerateResource.Cache

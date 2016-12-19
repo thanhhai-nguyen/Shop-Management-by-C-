@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Countries>
+  <Country name="Argentina"/>
+  <Country name="Australia"/>
+  <Country name="Austria"/>
+  <Country name="Belgium"/>
+  <Country name="Brazil"/>
+  <Country name="Canada"/>
+  <Country name="Denmark"/>
+  <Country name="Finland"/>
+  <Country name="France"/>
+  <Country name="Germany"/>
+  <Country name="Ireland"/>
+  <Country name="Italy"/>
+  <Country name="Japan"/>
+  <Country name="Mexico"/>
+  <Country name="Netherlands"/>
+  <Country name="Norway"/>
+  <Country name="Poland"/>
+  <Country name="Portugal"/>
+  <Country name="Singapore"/>
+  <Country name="Spain"/>
+  <Country name="Sweden"/>
+  <Country name="Switzerland"/>
+  <Country name="UK"/>
+  <Country name="USA"/>
+  <Country name="Vietnam"/>
+  <Country name="Venezuela"/>
+</Countries>
